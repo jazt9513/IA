@@ -22,12 +22,10 @@ class EReader:
         autor = (linea1 if linea1.find('autor') != -1 else linea2).replace("autor: ", "")
         titulo = (linea2 if linea2.find('titulo') != -1 else linea1).replace("titulo: ", "")
         contenido = ''
-
         for fila in archivo.readlines():
           contenido += fila
         archivo.close()
-        ebook = EBook(titulo, autor, contenido)
-        self.libros.append(ebook)
+        self.libros.append(EBook(titulo, autor, contenido))
         
 
 
@@ -39,8 +37,7 @@ class EReader:
     for libro in self.libros:
       titulo_autor = libro.titulo + " " + libro.autor
       if filtro in titulo_autor:
-        resultado.append(libro)
-      
+        resultado.append(libro)      
     if resultado:
       return resultado
     else:
