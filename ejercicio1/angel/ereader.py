@@ -12,7 +12,7 @@ class EReader:
 
     Los nombres de los archivos terminan con la extensión .txt
     """
-    self.libros = []
+    self._libros = []
     archivos = os.listdir(path="libros")
     for n in archivos:
       if('.txt' in n):
@@ -25,7 +25,7 @@ class EReader:
         for fila in archivo.readlines():
           contenido += fila
         archivo.close()
-        self.libros.append(EBook(titulo, autor, contenido))
+        self._libros.append(EBook(titulo, autor, contenido))
         
 
 
@@ -34,8 +34,8 @@ class EReader:
 
     'filtro' es una string que puede ser el titulo o autor que coincida con uno o varios libros. Cualquier otro valor recibido deberá lanzar una excepción de tipo ValueError."""
     resultado = []
-    for libro in self.libros:
-      titulo_autor = libro.titulo + " " + libro.autor
+    for libro in self._libros:
+      titulo_autor = libro.get_titulo() + " " + libro.get_autor()
       if filtro in titulo_autor:
         resultado.append(libro)      
     if resultado:
