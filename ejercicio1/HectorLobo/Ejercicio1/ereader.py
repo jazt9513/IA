@@ -20,7 +20,7 @@ class EReader:
 
     for fullPathBook in fullPathBooks:
       if('.txt' in fullPathBook):
-        book = open(fullPathBook, 'r')
+        book = open(fullPathBook, 'r', encoding="utf-8")
         lineOne = book.readline()
         lineTwo = book.readline()
         author = lineOne[7:]
