@@ -36,7 +36,7 @@ class EReader:
     resultado = []
     for libro in self._libros:
       titulo_autor = libro.get_titulo().lower() + " " + libro.get_autor().lower()
-      if filtro.lower() in titulo_autor:
+      if filtro.lower().strip() in titulo_autor:
         resultado.append(libro)      
     if resultado:
       return resultado
