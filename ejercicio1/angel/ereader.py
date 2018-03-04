@@ -35,8 +35,8 @@ class EReader:
     'filtro' es una string que puede ser el titulo o autor que coincida con uno o varios libros. Cualquier otro valor recibido deberá lanzar una excepción de tipo ValueError."""
     resultado = []
     for libro in self._libros:
-      titulo_autor = libro.get_titulo() + " " + libro.get_autor()
-      if filtro in titulo_autor:
+      titulo_autor = libro.get_titulo().lower() + " " + libro.get_autor().lower()
+      if filtro.lower() in titulo_autor:
         resultado.append(libro)      
     if resultado:
       return resultado
