@@ -32,7 +32,8 @@ class EBook:
     """
     contenido_limpio = re.split('[.,\s]', self._contenido)
     diccionario = {}
-    for palabra in contenido_limpio:
+    palabras = set(contenido_limpio)
+    for palabra in palabras:
       cantidad = contenido_limpio.count(palabra)
       diccionario[palabra] = cantidad
     del diccionario[''] #borra los '' que genera el split
