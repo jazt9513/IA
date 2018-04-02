@@ -1,0 +1,7 @@
+1
+Querido usuario,
+Tu cuenta de Microsoft ha sido comprometida.
+Debes de Actualizar inmediatamente o tu cuenta sera cerrada.
+Haz Clic aqui para Actualizar
+Sinceramente,
+Equipo de Seguridad de Microsoft

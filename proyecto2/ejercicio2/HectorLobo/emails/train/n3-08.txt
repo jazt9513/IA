@@ -1,0 +1,13 @@
+1
+Estimado cliente,
+
+Hemos detectado que una de tus facturas ha sido doblemente pagada.
+
+El origen de una mala estimacion en nuestro sistema de debito automatico, hemos tomado de su cuenta una cantidad de 57.98 Euros
+
+En este caso, queremos que ingrese su cuenta y agregue una tarjeta de credito para completar la solicitud de su reembolso.
+
+https://www.endesaclientes.com/Login.html
+
+*Los reembolsos se realizan solo a tarjetas de credito/débito.
+*El dinero sera reembolsado a su tarjeta en 1-2 dias.

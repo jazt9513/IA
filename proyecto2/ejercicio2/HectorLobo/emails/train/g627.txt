@@ -1,0 +1,11 @@
+0
+		
+Hola:
+
+Se enviรณ una solicitud para borrar el dispositivo mediante Encontrar mi dispositivo. Intentaremos borrar todos los datos de este dispositivo.
+
+Si tu dispositivo no tiene conexiรณn, la informaciรณn se borrarรก cuando vuelva a conectarse.
+
+Cuenta: cross.platform.1.0@gmail.com
+Dispositivo: Huawei Y221-U03
+Fecha: 06-ene-2018 18:07:43 PST

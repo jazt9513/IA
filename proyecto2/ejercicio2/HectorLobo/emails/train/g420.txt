@@ -1,0 +1,18 @@
+0
+Tarea no.4 IS 311 
+
+Saludos juventud.
+
+La tarea No. 4 consiste en realizar un Resumen de las secciones 7.3 a la 7.5 del libro Circuitos Eléctricos introducción al análisis y diseńo, 6 ed, Dorf, Svoboda  donde deberán incluir al menos 1 ejemplo de cada sección y realizar los ejercicios (descritos después de cada ejemplo ):  7.3-1, 7.4-1, 7.5-1.
+
+Esta tarea sumará a la nota del tercer examen y se entregará de manera individual el día martes 3 de mayo al campus virtual.
+
+Deberán subir un único archivo pdf con su resumen. Favor seguir el siguiente formato para nombrar su archivo:
+
+IS311_Tarea4_nombre_#cuenta
+
+Saludos y éxitos!
+
+Atte.
+
+Ing. Abdiel Sevilla 

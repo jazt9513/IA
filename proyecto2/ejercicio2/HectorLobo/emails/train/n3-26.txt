@@ -1,0 +1,133 @@
+0
+
+Logo campusMVP
+
+La mejor formaciooon online para desarrolladores como tú.
+
+¿No se ve bien? Prueba con la versión web.
+	
+
+
+
+¿Cuál es el lenguaje de programación que más odias pero no te queda otro remedio que utilizar?
+
+Esta es una de las preguntas que trasladó la gente de Stack Overflow a casi 200.000 programadores de todo el mundo hace poco para su encuesta anual de lenguajes de programación.
+
+¿A ver si adivinas cuál está de primero en la lista?...
+
+...
+
+Pues Visual Basic 6. Sí, casi 20 años después de su defunción oficial sigue siendo un lenguaje muy utilizado, pero que a mucha gente le gustaría dejar de utilizar. La pregunta aquí sería: si Microsoft lo modernizase manteniendo su espíritu original ¿lo seguirías utilizando? De hablar con muchos programadores todos los días nosotros creemos que la repuesta sería un rotundo "¡Sí!".
+
+Esta es la lista completa:
+
+Most-Dreaded-Langs-2018
+
+VB.NET también está presente en el número 4 y VBA en el número 5.
+
+Para compensar, Microsoft tiene 3 lenguajes en la lista de los mas queridos por los programadores: TypeScript, C# y F#, aunque los favoritos por gustos (no por uso) son Rust, Kotlin y Swift, evidenciando la subida fulgurante de estos dos últimos, la importancia que tiene hoy en día el desarrollo móvil.
+
+VII Máster Front End
+
+Por cierto, recuerda que tenemos abiertas las inscripciones de nuestro 7º Máster de Front End.
+
+La fecha límite para inscribirse es el próximo jueves 22 de marzo. Si te interesa, ¡no te despistes!, que las plazas son limitadas.
+
+master-VII-front-end-online_590
+	
+ 
+	
+LENGUAJES Y PLATAFORMAS
+	
+	
+
+Docker
+Cómo empezar a desarrollar utilizando Docker
+
+¿Te suena de qué va Docker? Pues si no te suena, debería. En el futuro cercano el desarrollo de aplicaciones en cualquier lenguaje o plataforma no se va a concebir sin esta herramienta. Además de para desplegar aplicaciones sin fallos, sirve también para llevar mejor el desarrollo. En este artículo te contamos qué es Docker, por qué debería interesarte, los usos típicos y cómo dar los primeros pasos con esta herramienta.
+
+Además:
+
+    Java: cómo comprobar si existe o no un archivo o una carpeta en el disco duro
+    Un eBook gratuito de Microsoft sobre accesibilidad en aplicaciones. Interesante, En Inglés.
+
+ 
+	
+	
+DESARROLLO WEB
+	
+	
+
+negrita-html5
+HTML5: ¿Cuál es la forma correcta de poner negritas?
+
+Seguro que la pregunta te parece básica e incluso tonta, sin apenas importancia. Pero en realidad tiene más fondo del que pueda parecer... Tradicionalmente en HTML el asunto era muy sencillo. Sin embargo, en HTML5 disponemos de muchas más opciones que parecen equivalentes. Pero no lo son. Cada manera de hacerlo tiene sus aplicaciones específicas y sus implicaciones, por lo que no es correcto usarlas indistintamente.
+
+Además:
+
+    Componente de hoja de cálculo Open Source para React
+    TRUCO: Actualizar a la última las versiones de dependencias npm en package.json
+
+ 
+	
+	
+ACCESO A DATOS
+	
+	
+
+ORM
+¿Qué es un ORM?
+
+Tradicionalmente, para realizar acceso a datos desde un lenguaje orientado a objetos (POO) como pueden ser .NET o Java, era necesario mezclar código y conceptos muy diferentes. Esto creaba una serie de dificultades, a veces enormes, y se hizo necesaria una solución. En este artículo os enseñamos cuáles son estos problemas, qué es lo que nos permite disminuir la "impedancia " existente a través de un ORM, sus ventajas e inconvenientes y cuáles tenemos disponibles para las diferentes plataformas.
+
+Además, ya que estamos, analizamos los diferentes modos de funcionamiento del ORM oficial de Microsoft: Entity Framework.
+	
+	
+DEV LIFE
+	
+	
+
+Teletrabajo
+5 razones que convencerán a tu jefe que debes teletrabajar
+
+Seguro que lo has pensado muchas veces: "Estaría genial quedarme en casa hoy para trabajar. Seguro que aprovecho mejor el tiempo". Además te ayudaría a conciliar la vida profesional y la familiar, a no perder tanto tiempo en atascos... Pero el teletrabajo en algunas empresas es aún una utopía... Convence a tu responsable con cifras y demuéstrale lo beneficioso que le resultará a tu empresa el hecho de que tú teletrabajes. ¡Suerte!
+
+Además, el pasado Día de la Mujer hemos analizado con números en la mano el papel de la mujer en el mundo de la programación. Algunas cosas puede que te sorprendan.
+	
+	
+FRIKADAS
+	
+	
+
+Dana-Lewis
+Diabética construye su propio páncreas artificial y lo hace Open Source
+
+Esta es una de esas historias que verdaderamente nos gusta contar, y que refleja muy bien el poder individual para crear que nos otorga la tecnología en la actualidad. Todo es cuestión de imaginación, tiempo y perseverancia. La historia de cómo Dana Lewis construyó su propio páncreas artificial.
+
+Además, por contraste, te comentamos cuáles son los 10 proyectos más tontos (pero interesantes) para Raspberry Pi.
+	
+	
+GAMBADAS
+	
+	
+
+Red-Electrica-Europea
+Se han perdido 6 minutos desde enero... y no los encuentran
+
+Esto parece una broma de conspiranoicos, pero es muy real. ¿Has notado que tu despertador o el reloj del horno han ido atrasando poco a poco últimamente? Pues le ha pasado a mucha más gente. El efecto está relacionado con la forma de medir el tiempo que tienen algunos relojes, la existencia de una red de "vasos comunicantes" eléctricos en Europa y las desavenencias entre Kosobo y Serbia. Todos los tintes de una historia de ficción llevados a la realidad y con consecuencias reales. ¡Te interesará!
+
+Además, este mes  hemos sabido que durante unos días, npm rompía por completo tu sistema Linux, hasta el punto de forzarte a reinstalar.
+	
+ 
+
+logo campusMVP
+
+La mejor formación online para desarrolladores como tú.
+ 
+Compártelo en: 	  		  		  	campusMVP 	  	LinkedIn
+ 
+Tu email  está suscrito al boletín de campusMVP. Puedes darte de baja haciendo clic aquí.
+Si te han reenviado este email y te parece interesante, puedes suscribirte desde desde esta página.
+Copyright © campusMVP.es - Krasis Consulting S.L. - Catalogo | Contacto | Aviso legal
+ 
+Síguenos y no te pierdas nada:

@@ -1,0 +1,20 @@
+1
+¿Qué es frontend y backend?
+Estos conceptos explican cómo funciona una página web y son fundamentales para cualquier persona que trabaje en el mundo digital.
+
+En Platzi no sólo escriben código, lo hablan
+Descubre el primer Platzionary, un repaso por los términos de la industria de tecnología que repetimos a PlatziLive y nuestras clases.
+
+Llevar a Django a producción
+El momento de llevar cualquier aplicación web a producción es una parte fundamental y poco documentada por la gran cantidad de configuraciones posibles que existen.
+
+
+Qué es GitHub?
+GitHub es una opción eficiente para el control y gestión de tus proyectos, aquí repasamos sus características básicas.
+
+Consejos para buscar trabajo como programador
+Hay pequeñas acciones que te ayudarán a tener un perfil más atractivo y te acercarán a conseguir tu trabajo ideal.
+
+¿Cómo diseñar un logo?
+Diseñar un logo es parte de crear una identidad visual, comunica el objetivo de una marca. Repasamos el proceso paso a paso.
+

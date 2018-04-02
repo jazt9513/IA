@@ -1,0 +1,7 @@
+0
+Aprende Java, uno de los lenguajes de programación más populares de todos los tiempos a nivel Avanzado.
+Estamos muy felices de comentarte que nuestro nuevo curso de Java Avanzado ya está disponible.
+ 
+En este curso, aprenderemos el uso de la variable clase, instancia, string literal, string object, string pool, tipos de genéricos, métodos genéricos, colecciones, hilos y mucho más.
+ 
+Te facilitaremos consejos, técnicas en todo lo que respecte a Java a un nivel avanzado. Además de ello, desarrollaremos diferentes ejercicios y como proyecto, se desarrolla un sistema bibliotecario, combinando de esta manera la teoría con la práctica.

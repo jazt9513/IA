@@ -1,0 +1,57 @@
+0
+Ejercicio BDII
+Nestor Luque<nestorlopezluque@gmail.com>
+mié 22/2/2017 17:49
+Luis h Mejia Mejia (snowtiger00000@gmail.com);Daniel López (shagui_8812@hotmail.com);Denis Mendoza (dmendoza776@gmail.com);Elson Acosta (bacostacarcamo@yahoo.es);kurtcoyote@hotmail.com;akatsuki-marre13@hotmail.com;eduardo campos (eduardojose.campos@gmail.com);Jairo Zelaya (jnzelaya91@gmail.com);marsergy@hotmail.com;marvin_mg_1@yahoo.com;aaronmontes_92@yahoo.es;Kriss Portillo (kriss.alexx.portillo@gmail.com);katerin.matute@unah.hn;juanjuanchojc@hotmail.com;Brayan René Banegas Mejía (brayanbanegas90@gmail.com);derick.carcamo@unah.hn;romylok@hotmail.com;Tomasa Meza (tomy_96@hotmail.es);Karen Villalobos (karenpao_villa@yahoo.com);jeffersonreyesunah@yahoo.com;Cristhian Barahona (cristhian784@hotmail.com);Ever Ramos (everamsvc@gmail.com);arielcastromejia@hotmail.com;Ronaldo Carcamo (carcamoronaldo@gmail.com);Brayan Lainez (brayanlainez77@gmail.com);kevin.oliva44@yahoo.com;aapp14000@hotmail.es;andinoana58@yahoo.com;danielochoa01@yahoo.com
+GO
+/****** Object:  StoredProcedure [dbo].[ParetoII]    Script Date: 24/02/2016 3:47:15 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author: <Author,,Name>
+-- Create date: <Create Date,,>
+-- Description: <Description,,>
+-- =============================================
+CREATE PROCEDURE [dbo].[ParetoII]
+   @anio INT,
+   @mes INT
+AS
+BEGIN
+
+SET NOCOUNT ON;
+
+
+ TRUNCATE TABLE BASESI.dbo.ParetoFinal;
+
+
+ --CREATE TABLE BasesI.dbo.ParetoFinal  (Pareto DECIMAL(20,8),
+--                                          IdCliente INT,
+--   Monto DECIMAL(20,8))
+
+
+       INSERT INTO BasesI.dbo.ParetoFinal (Pareto,
+                                          IdCliente,
+  Monto)
+     SELECT (CAST(B.ORDEN AS DECIMAL(8,4))/CAST(A.Total AS DECIMAL(8,4))) *100 Pareto,
+        B.IdCliente,
+        B.Monto
+      FROM (SELECT ROW_NUMBER()
+ OVER ( ORDER BY SUM(Monto) DESC) ORDEN,
+IdCliente,
+SUM(Monto) Monto
+   FROM BASESI.dbo.Ventas
+WHERE YEAR(FECHA) =  2017--@anio
+AND  MONTH(FECHA) = 2--@mes
+  Group By IdCliente) B
+        INNER JOIN ( SELECT count(distinct  IdCliente) Total
+                 FROM BASESI.dbo.Ventas
+ WHERE YEAR(FECHA) =  2017 --@anio
+AND  MONTH(FECHA) = 2--@mes
+) A
+ ON 1=1
+ WHERE (CAST(B.ORDEN AS DECIMAL(8,4))/CAST(A.Total AS DECIMAL(8,4))) *100 <= 20
+
+
+END

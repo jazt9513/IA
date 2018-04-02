@@ -1,0 +1,10 @@
+1
+CSS Grids te ayuda a ser eficiente a la hora de manejar la estructura, disposición y distribución del contenido de tu sitio.
+??  Ir a la clase en vivo
+Hoy en el lanzamiento del Curso de CSS Grids tendremos una clase en vivo con Leonidas Esteban, quien te enseńará a controlar estructuras bidimensionales de filas y columnas fácilmente, creando tu propia versión del layout de Pinterest.
+La clase en vivo está por empezar
+ĄTe esperamos!
+[motionmailapp.com]
+                 
+Hecho en BOG  MEX  SF con ??
+Si quieres dejar de recibir emails haz clic aquí

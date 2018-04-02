@@ -1,0 +1,45 @@
+1
+
+Amazon Alexa Team <no-reply-avs@amazon.com>
+14 mar. (hace 3 días)
+para mí 
+   Traducir mensaje
+Desactivar para: inglés
+To view this email as a web page, click here
+
+ 
+Alexa Icon
+ALEXA VOICE SERVICE
+
+ 
+ 
+[ACTION REQUIRED]
+Update certificate authorities for your AVS client
+Posted On: March 14, 2018
+
+Alexa Developer:
+
+The Alexa Voice Service is moving to Amazon Trust Services (ATS) certificates for all AVS endpoints. Because of this change, all Alexa-enabled devices and applications must support certificates vended from ATS by June 15, 2018. Your device or application will not be able to connect to AVS if it does not support ATS certificates after June 15, 2018.
+
+We recommend testing that your device or mobile application successfully connects to AVS endpoints using ATS certificates. Please follow the instructions listed on the AVS Developer Forum to learn how to complete testing and upgrade support for ATS.
+
+ 
+Learn more
+ 
+ 
+If you have questions or encounter issues while updating your client, please use the AVS Developer Forum.
+
+ 
+ 
+ 
+Alexa Logo
+  
+ 
+Twitter
+Facebook
+Blog
+GitHub
+ 
+Š 2018 Amazon.com or its affiliates. All rights reserved. Amazon, Alexa, Echo, Echo Show, Echo Dot, and all related logos and motion marks are trademarks of Amazon.com, Inc. or its affiliates. 410 Terry Avenue North, Seattle, WA 98109.
+
+ 

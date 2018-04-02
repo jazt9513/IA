@@ -1,0 +1,22 @@
+0
+Alumnos
+http://www.google.com ("" )
+Por este medio les estoy enviando el estudio de caso que deberá de estar conformado de la siguiente manera
+
+1. Por Parejas
+2. Encuadernado
+3. Entregado en físico el Miércoles 3 de Mayo a las 5:00 PM 
+4. Entregar el archivo de PT el mismo dia
+
+En el Informe
+
+1. Portada
+2. Indice
+3. Introducción
+4. Marco Teórico (Temas relacionado con el estudio de Caso)
+5. Marco Práctico (Ya el estudio de Caso)
+6. Conclusiones
+7. Anexos
+8. Biografía
+
+Atte

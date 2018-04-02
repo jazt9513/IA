@@ -1,0 +1,22 @@
+1
+Saludos, 
+
+Salvaguardar la confianza y la seguridad de nuestros usuarios es de suma importancia para Edmodo. Nos estamos poniendo en contacto con usted porque Edmodo recientemente se enteró de un incidente de seguridad que podría afectar las cuentas de los usuarios de Edmodo. Nuestra investigación ha confirmado que los nombres de usuario, direcciones de correo electrónico y “hash” de contraseñas fueron adquiridas por un tercero no autorizado. 
+
+En este momento no tenemos ninguna indicación de que las contraseñas de usuarios hayan sido comprometidas, pero recomendamos encarecidamente que todos los usuarios cambien sus contraseñas lo antes posible. 
+
+Para cambiar su contraseña: 
+
+1. Vaya al sitio web de Edmodo e inicie sesión en su cuenta.
+2. Haga clic en el enlace para "cambiar contraseña" en el aviso de la parte superior de la página.
+3. Introduzca su contraseña actual y después cree una nueva contraseña.
+
+
+Si usó la misma contraseña en cualquier otro sitio, le recomendamos que cambie su contraseña allí también. 
+
+Si tiene alguna pregunta o necesita ayuda para cambiar su contraseña, por favor visite el sitio web de Edmodo y vaya a nuestro Centro de Ayuda. 
+
+Gracias por hacer de Edmodo una comunidad increíble y un recurso que asiste a todos en un objetivo común: ayudar a todos los estudiantes a alcanzar su máximo potencial. 
+
+Sinceramente,
+El Equipo de Edmodo

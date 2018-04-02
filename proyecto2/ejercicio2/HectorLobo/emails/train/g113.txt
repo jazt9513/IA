@@ -1,0 +1,14 @@
+1
+Hola,
+
+Este próximo lunes impartimos una clase gratuita dedicada a Angular 5, la versión más reciente del framework Javascript más usado y demandado profesionalmente.
+
+Exploraremos la estructura de las aplicaciones Angular y las herramientas de línea de comandos con las que construir el esqueleto de aplicaciones, componentes, módulos y otros artefactos.
+
+Para asistir a esta clase simplemente tienes que entrar en este enlace.
+(El horario en tu región lo puedes encontrar en la misma página de registro)
+
+Aprovecha la oportunidad de acceder a esta clase que te ayudará a comenzar con Angular de una manera muy sencilla. Si ya tienes algún conocimiento previo podrás también conocer las novedades que están disponibles en Angular 5.
+
+Nos vemos en clase,
+Equipo de DesarrolloWeb 

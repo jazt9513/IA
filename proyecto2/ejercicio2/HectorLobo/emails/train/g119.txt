@@ -1,0 +1,10 @@
+1
+GraphQL vence y convence
+
+Alternativa al modelo de desarrollo conocido como RESTful, GraphQL aporta soluciones a los problemas recurrentes del trabajo con las APIs.
+
+Este proyecto Open Source Impulsado por Facebook, ha sido adoptado por empresas de primer nivel como GitHub, Pinterest o Shopify. Conoce con nosotros las posibilidades de GraphQL y tú también te convenceras.
+
+Comenzamos hoy lunes 12 de marzo, encuentra el acceso y el horario a esta sesión gratuita desde AQUÍ
+
+Equipo de EscuelaIT

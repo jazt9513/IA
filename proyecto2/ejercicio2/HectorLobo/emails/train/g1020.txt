@@ -1,0 +1,29 @@
+0
+Estimados Jóvenes,
+
+
+En la fase final de la clase, tomen en cuenta lo siguiente:
+
+
+Investigación sobre Paralelismo en el procesador: Investigar sobre las diferentes formas de paralelismo que se dan tanto a nivel de datos como a nivel de instrucciones; debe incluir: segmentación (pipelinning), multi threadings, multi nucleo, SISD, SIMD, MISD y MIMD.
+ 
+Se debe hacer un informe que contenga al menos las siguientes secciones: 
+Portada
+Introducción: Media pagina
+Cuerpo o Contenido: Entre 5 y 10 paginas: Se requiere calidad, no cantidad
+Conclusiones 
+Para presentarlo, hay que publicarlo en el blog; preferiblemente como contenido de lectura directa (HTML) que incluya un archivo en formato pdf para poder descargarlo.
+
+
+
+2. Presentación del blog. A través de este enlace, cada educando incluya la url a su blog en la columna correspondiente. 
+
+
+3. Recuerden que el blog, debe incluir el video de la presentación de su proyecto final, (Video en grupo, pero subido individualmente en cada blog)
+
+
+
+Saludos,
+"Piensa en el medio ambiente. Antes de imprimir este correo electrónico, por favor considera si es necesario."
+NOTA CONFIDENCIAL: 
+La información contenida en este correo electrónico y cualquier archivo adjunto son originados por la Universidad Nacional Autónoma de Honduras (UNAH); es de uso privilegiado y/o confidencial y sólo puede ser utilizada por la persona, entidad o compañía a la cual está dirigido. Si usted ha recibido este mensaje por error, favor destruirlo y avisar al remitente. Si usted no es el destinatario no deberá revelar, copiar, distribuir o tomar cualquier acción basado en los contenidos del mensaje. Cualquier retención, diseminación o distribución total o parcial no autorizada de este mensaje está estrictamente prohibida y sancionada por la ley. Las observaciones y opiniones expresadas en este mensaje de correo electrónico pueden no necesariamente ser aquellos de la administración o funcionarios de la UNAH.

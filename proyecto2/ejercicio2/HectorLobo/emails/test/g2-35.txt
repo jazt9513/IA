@@ -1,0 +1,23 @@
+0
+Estimada/o Daniel
+Tenemos el placer de comunicarle que el taller que proponen, con el número 32 y que lleva por título:
+"Desarrollo Web Con Angular"
+ha sido aceptado para su presentación en el congreso COMPDES2017.
+
+En la web del congreso podrá comprobar, en breve, el lugar que ocupa en la programación general del congreso.
+
+Para resolver cualquier duda, así como si necesita alguna carta institucional para justificar su desplazamiento a Quetzaltenango, póngase en contacto con los organizadores, a través del correo electrónico
+
+christian.lopez@cunoc.edu.gt
+
+Si necesita realizar algún cambio en el texto que envió inicialmente, puede hacerlo en el enlace:
+
+https://easychair.org/conferences/?conf=compdes2017
+
+donde deberá actualizar ("update") su trabajo, enviando un nuevo archivo con las modificaciones que crea convenientes.
+
+El plazo para enviar la versión definitiva de su trabajo termina el 18 de junio.
+
+Esperamos verle en Quetzaltenango.
+Un cordial saludo,
+Comité de Organización de COMPDES2017

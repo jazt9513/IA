@@ -1,0 +1,3 @@
+0
+¡Bienvenido/a a la semana 1!
+Nos complace anunciar que Neural Networks and Deep Learning ya se encuentra abierto. Asegúrate de completar tus tareas en función de las fechas límite semanales. La fecha límite de las tareas de tu primera semana es el Feb 18, 2018 11:59 PM PST.

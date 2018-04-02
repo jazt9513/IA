@@ -1,0 +1,17 @@
+0
+Hola,
+
+2017 ha sido un año memorable, por decir lo menos; tuvimos otro gran lanzamiento con la v15.5, se añadieron muchísimas nuevas funcionalidades al sistema telefónico y comenzamos algunas asociaciones importantes, las cuales están llevando a 3CX a un nuevo nivel.
+
+El Update 2 de V15.5 introduce muchas nuevas funcionalidades para una más fácil implementación y administración de la PBX incluyendo hot desking, integración de CRM basada en el servidor y aprovisionamiento con código QR para nuestros clientes iOS y Android.
+Actualizaciones para los Clientes 3CX
+
+Con las actualizaciones a todos los clientes 3CX, la tan apreciada funcionalidad de conferencia está de regreso, de nuevo los usuarios pueden crear fácilmente conferencias ad hoc y añadir participantes diréctamente desde la UI. Manténganse al pendiente del lanzamiento del SP3 el cual reintroducirá la programación de conferencias desde el cliente, así como la opción de que los participantes sean llamados para unirse automáticamente.
+Nueva Actualización del SBC 3CX
+
+El popular SBC 3CX, ha recibido mejoras importantes para proporcionar a los clientes un mejor desempeño. La última actualización funciona para Debian 9 y Raspberry Pi, además hemos añadido el número de puertos RTP por defecto, habilitado el reinicio automático en caso de algún evento de falla y más. Asegúrese de visitar nuestro blog para obtener más información y descargar la actualización.
+
+¡Como nota final, el equipo de 3CX le desea felices fiestas!
+Un saludo,
+Gabriela Saborio Adamides
+Sales Executive South and Central America 

@@ -1,0 +1,12 @@
+1
+Llama a {número de teléfono} para averiguar sobre nuestros programas de graduación.
+
+Si estás buscando un grado de licenciatura, doctorado o MBA
+
+Podemos darte credenciales completamente verificables para que hagas carrera. BACK ON TRACK!
+
+Sin exámenes ni tesis. Llama: {Teléfono} Call: {Phone Num.}
+
+nos disculpamos si no querías recibir este mensaje.
+
+Para darte de baja de nuestra lista, por favor llama {Teléfono}

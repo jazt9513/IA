@@ -1,0 +1,18 @@
+1
+Buen día,
+
+El equipo de Yahoo le notifica que es necesario que verifique sus datos personales para comprobar que usted es el dueño legítimo de esta cuenta ya que hemos sufrido un ataque externo por hackers, tiene un plazo de 30 días para confirmar los datos siguientes:
+
+Nombre completo
+Edad
+País
+Ciudad
+Correo
+Teléfono
+Ocupación
+
+Para evitar que su cuenta sea bloqueada y eliminada en los próximos 30 días, envíe un correo con la información requerida a:
+
+teamprotsecu@yahoo.com
+
+Atentamente, equipo Yahoo.

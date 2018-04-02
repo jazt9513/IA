@@ -1,0 +1,3 @@
+0
+El dia de maĂąana posiblemente no se lleve a cabo el curso debido a problemas con el laboratorio 
+en todo caso lo que veremos hoy es acerca de jquery ,gemas de bootstrap como importarles al proyecto y como hacer usar plantillas de start bootstrap en rails

@@ -1,0 +1,14 @@
+0
+Les recuerdo que manana a las 11:30 a.m. se presenten al area de los laboratorios para el examen teorico. El Ing. Duarte va a ser quien imparta el examen, sin embargo yo voy a hacer todo lo posible por estar presente tambien. El tiempo es de 50 minutos, y sera desarrollado utilizando la plataforma de la universidad.
+
+No esta de mas recordarles que estudien del libro (Manual de Programacion en Visual Basic), desde acceso a datos con ado.net (pg. 663) hasta el final (725). Estudien los metodos de cada objeto y la funcion que cada uno tiene. Toda esta teoria, con la practica la llegan a manejar tan bien que no necesitan memorizarlo, porque ya lo saben. 
+
+Les recomiendo que practiquen aplicar toda esa teoria en la practica con ejercicio. 
+
+En caso que yo no pueda llegar a la hora del examen, les pido me escriban cualquier comentario o duda que tengan al respecto.
+
+Exitos!
+
+-- 
+Francisco A. Perez
+Email: fperez@consultenhn.com

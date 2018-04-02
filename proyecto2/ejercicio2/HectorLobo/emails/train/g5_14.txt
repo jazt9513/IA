@@ -1,0 +1,72 @@
+1
+Ben Jordan <circuitmaker@altium.com>
+
+Este mensaje contiene imágenes bloqueadas.
+To view this email as a web page, click here
+
+CircuitMaker Logo	
+CIRCUITMAKER NEWSLETTER #7
+OTHERMILL COMP, MAKER FAIRE, FIRST MEETUP
+
+
+This month we have a cluster of exciting news to share. Seems like May is always a crazy time of year for us - this time exactly one year ago CircuitMaker was launched to public open beta. So we have some great news to celebrate the first anniversary of excellent PCB design being made available to all.
+
+Sender Photo
+Regards,
+Ben Jordan
+
+ 
+TOPICS IN THIS NEWSLETTER:
+
+Project of the Summer: Win an Othermill
+Come to the First Meetup at MFBA
+April Project of the Month Winner
+In Case You Missed It
+CircuitMaker on Social Media
+PROJECT OF THE SUMMER: WIN AN OTHERMILL
+
+You will want to maximize your chances on this one. We've been playing around with an Othermill, the awesome desktop CNC router manufactured in California by our friends at OtherMachine Co. This thing is so awesome and we're very happy to announce that we're partnering with OtherMachine Co. to celebrate CircuitMaker being open to the public for one year. Every school, university, maker lab, and tech entrepreneur needs an Othermill! For details of the Project of the Summer, check out the announcement.
+
+Section Image
+COME TO THE FIRST MEETUP AT MFBA
+
+Once again we'll be at Maker Faire Bay Area from May 20th-22nd. Maker Faire is always a great place to come and meet up with the CircuitMaker team, talk electronics, PCB design, discuss the features and direction of CircuitMaker and generally enjoy the mayhem that is Maker Faire. If you're in the area we'd love to meet up with you - so swing by. We'll also have an OtherMill in our booth and be operating it during the show, and we also have a speaking slot at the "Maker Pro" stage at 1:30pm on Sunday, where we'll be discussing how to get from prototype to production-ready designs.
+
+Section Image
+APRIL PROJECT OF THE MONTH WINNER
+
+This month we've seen some really cool projects get to awesome status. As usual, there's always a few which are great candidates that make it tough for us to pick a winner. Well, we narrowed it down and for April we're really excited by the Brushless DC Motor Controller by STEFAN LÜTHI. This project is well thought-out, tested, documented and he even included a demo video. There are some unique and cool X-factors about this project that we found appealing, for example: gangable I2C interface, modular layout, high current driver MOSFETs, and wire anchoring holes to name a few. Join us in congratulating Stefan on winning for April. Take a look at this project!
+
+Section Image
+IN CASE YOU MISSED IT
+
+So much going on, and so little time. We're flat out busy at CircuitMaker HQ getting ready for Maker Faire, but we also wanted to share with you a few of the interesting things going on around our blogs. These are always interesting, and you will probably learn a thing or two about PCB and electronics design. Take a look!
+
+Topic Image
+IDEA TO PROTOTYPE IN ONE AFTERNOON 
+(BY BEN JORDAN)
+
+I decided to give the OtherMill a go with the General Purpose Regulator, because this design was basically routed entirely on the top layer and could be easily milled out as a single-layer PCB prototype. Im going to do more boards and you can also look forward to a video walking through this process. The results are really great.
+READ THE BLOG
+
+ 
+Topic Image
+GUEST BLOG - GUIDING WACKY PARTS PLACEMENT 
+(BY ELI HUGHES)
+
+For those of us who require accurate placement, fidgeting with the parts until they are just right can eat up hours. In this blog Eli Hughes shows how to save time by using free MCAD tools to create placement guides that are imported in to CircuitMaker via DXF.
+READ THE BLOG
+
+ 
+Topic Image
+THE 64 SENSOR PUZZLE AKA COPY AND PASTE LIKE A PRO! (BY RAFAL FIJOLEK)
+
+We all love to copy and paste regardless which software we use. We've been doing it all our life. But did you know in CircuitMaker the humble copy and paste has a twist in the PCB editor?
+READ THE BLOG
+
+CIRCUITMAKER ON SOCIAL MEDIA
+
+Were all over social media to share cool things happening in the maker community. Check out our pages to stay up to date on CircuitMaker.
+
+Facebook	Twitter	Google Plus	Linkedin	You Tube
+Altium LLC, 4225 Executive Square, Suite 700, La Jolla, California 92037, United States. AltiumŽ, Altium DesignerŽ, Altium VaultŽ, AutotraxŽ, CamtasticŽ, CircuitMakerŽ, CircuitStudioŽ, Codemaker, Common Parts Library, DXP, EasytraxŽ, LiveDesignŽ, NanoBoardŽ, OctopartŽ, PCBWORKSŽ, P-CADŽ, ProtelŽ, TASKINGŽ and their respective logos are trademarks or registered trademarks of Altium Limited or its subsidiaries. All other registered or unregistered trademarks referenced herein are the property of their respective owners and no trademark rights to the same are claimed.

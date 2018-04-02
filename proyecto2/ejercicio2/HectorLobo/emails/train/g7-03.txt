@@ -1,0 +1,33 @@
+1
+Vuelve Admob, Mobincube cambia el modelo de negocio
+
+Tenemos buenas noticias, desde ahora, ya puedes monetizar tus apps con tu propia cuenta de Admob y recibir el 100% de los ingresos que tus apps generan. Esto es posible gracias a un cambio importante en el modelo de negocio de Mobincube.
+
+¿En qué consiste el nuevo modelo?
+
+Mobincube deja de gestionar las redes de publicidad, cobrar de ellas y luego pagarte. Ahora, tú eliges qué red utilizar (Admob, Facebook o Startapp), te creas tu propia cuenta con dichas redes y monetizas las apps desde tus cuentas. Las redes de publicidad te pagarán directamente a ti y Mobincube no se queda ningún porcentaje de tus ingresos. A cambio, tendrás que suscribirte a un plan premium de Mobincube.
+
+ 
+¿Ganarás más dinero que ahora?
+
+¡Claro que sí! Al monetizar con Admob y cobrar el total de la publicidad, tus ingresos se multiplicarán entre 3 a 10 veces. Y el coste de la suscripción solo representará una parte pequeña de tus ingresos. Entonces, tus ingresos netos serán muy superiores a los que obtenías hasta ahora con Mobincube.
+
+
+¿Cuánto cuesta la suscripción a Mobincube?
+
+Por supuesto, podrás seguir utilizando la versión gratuita de Mobincube, si no buscas ganar dinero con tus apps. En cambio, si desarrollas apps profesionales sin publicidad o las creas para ganar dinero con publicidad, el tipo de plan que deberás tener dependerá del número de personas que utilicen tu app cada mes (MAU). Consulta la sección de precios de Mobincube.
+
+ 
+¿Qué tienes que hacer ahora?
+
+Durante el mes de Febrero, deberás republicar todas tus apps para que éstas puedan ser compatibles con el nuevo modelo. Por otro lado, tendrás que obtener los códigos de publicidad en tus cuentas. No importa en qué orden lo hagas. Entra en Mobincube, y en la sección de monetizar de una app (en herramientas), tendrás más información sobre las redes que puedes utilizar. A partir del 1 de Marzo, todas aquellas apps que no se hayan republicado o las que no tengan códigos publicitarios, dejarán de generarte ingresos.
+
+More Info
+ 
+Facebook
+ 
+Twitter
+ 
+YouTube
+ 
+Copyright © 2017 - Material published on this email is protected by copyright

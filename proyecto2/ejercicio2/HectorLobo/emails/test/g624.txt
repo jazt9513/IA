@@ -1,0 +1,9 @@
+1
+Querido usuario,
+Un aviso de cortesia del Equipo de Administracion
+Ha excedido el limite de almacenamiento de su correo electronico en el servidor de la base de datos.
+Su cuenta sera bloqueada y no podra recibir o enviar mensajes, si no valida su correo electronico dentro de las proximas 48 horas.
+Por favor haz clic abajo para validar y acceder al servidor
+HAZ CLIC AQUI
+Gracias,
+Equipo de Outlook

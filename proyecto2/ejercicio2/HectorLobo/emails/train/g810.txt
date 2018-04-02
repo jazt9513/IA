@@ -1,0 +1,22 @@
+0
+Buenas noches, Soy Kevin Santamaría, Instructor del Laboratorio de introducción para la IS.
+A continuación les muestro las siguientes indicaciones para las prácticas 1 y 2:
+
+Las guías se encuentran adjuntas.
+
+Descargar Pseint: http://pseint.sourceforge.net/
+Descargar Sublime Text 3:  https://www.sublimetext.com/3
+
+La primera práctica se entregará en un archivo comprimido en donde se guardarán los dos programas en formato pseint (".psc").
+
+La segunda práctica se entregará en un archivo comprimido en donde se guardarán los dos archivos html y la imagen (Cualquier formato soportado, ejemplo: ".jpg"), todos en la misma carpeta.
+
+Ambas prácticas se entregarán a mas tardar el martes 25 a medianoche, y me las harán llegar a la dirección remitente del presente correo, con su respectivo asunto indicado en las guías.
+
+Pronto les estaré enviando algunos manuales html-Javascript y la última práctica.
+
+También estaremos pendientes para la fecha de la evaluación final.
+
+Nota: Nos veremos el próximo martes 25, en la misma hora y aula de su sección...
+
+Saludos... Felíz fin de semana.

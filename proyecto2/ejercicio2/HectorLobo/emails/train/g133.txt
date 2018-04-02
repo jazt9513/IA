@@ -1,0 +1,5 @@
+0
+Buenas tardes,
+
+Con este cambio, permites que aplicaciones que posiblemente tengan un método de ingreso menos seguro puedan acceder a tu cuenta de Yahoo. Este cambio permite que aplicaciones de correo electrónico que no cumplen con las normas de seguridad recomendadas de Yahoo accedan a tu cuenta y la dejen más expuesta a los riesgos de seguridad.
+

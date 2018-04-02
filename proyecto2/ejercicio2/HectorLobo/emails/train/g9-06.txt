@@ -1,0 +1,22 @@
+0
+	Hola estudiante de Microsoft DreamSpark:	 
+ 	Como tu colegio dispone de una suscripción a DreamSpark, nos complace ofrecerte nuevos servicios y software de Microsoft gratis: 
+
+	Visual Studio 2015 es la nueva versión de la herramienta premier de codificado de Microsoft, ahora disponible para estudiantes. Esta nueva versión ha mejorado el soporte para crear aplicaciones de Windows 10, Android e iOS, e incluye un completo emulador de Android y mucho más. 
+
+Puedes obtener el nuevo Visual Studio en la tienda web de tu colegio. 
+
+Si tu colegio no ofrece una tienda web, puedes obtener Visual Studio 2015 Community directamente en DreamSpark.com. 
+
+    	Microsoft Azure está disponible para estudiantes de DreamSpark gratis y si necesidad de proporcionar una tarjeta de crédito. Esta oferta incluye servicios en la nube de Azure, como MySQL, Web Apps y mucho más, para que puedas comenzar a codificar tus proyectos en línea en la nube de inmediato. 
+
+Esta oferta de Azure está disponible exclusivamente para estudiantes que hayan creado una cuenta en DreamSpark.com. Para activar esta oferta: 
+
+  1)  	Visita
+
+  2)  	Crea tu cuenta.
+
+  3)  	Verifica tu estado de estudiante.
+
+  4)  	Obtén Azure en nuestro catálogo de software de DreamSpark.
+Esperamos que disfrutes de estas nuevas oportunidades. Microsoft DreamSpark te da el software y los recursos para aprender, y así ir a la cabeza en el colegio o en tu futuro trabajo.

@@ -1,0 +1,8 @@
+1
+Estimado/a cliente de Amazon Web Services:
+
+En diciembre de 2017 anunciamos que Amazon EC2, Amazon EBS y AWS Storage Gateway migrarian a ID de recurso de formato largo para adaptarse al crecimiento continuo de Amazon Web Services. A partir de hoy, puede hacer clic en Cambiar a ID largos en la consola de administracion de AWS o use las API para recibir ID largos.
+
+Los sistemas que analizan o almacenan los ID de recurso no necesitan trabajar con ID largos. Es absolutamente recomendable que pruebe la interoperabilidad de sus sistemas con los ID largos. Despues de junio de 2018, todos los recursos nuevos recibiran ID largos. Seguiremos admitiendo los ID cortos para los recursos existentes.
+
+En las preguntas frecuentes y en los documentos puede encontrar informacion adicional, incluidos los detalles sobre como probar sus sistemas. Si tiene alguna pregunta, pongase en contacto con el equipo de soporte de AWS en los foros de la comunidad o traves de AWS Premium Support. Haga clic a continuacion para cambiar a los ID largos ahora.
