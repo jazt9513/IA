@@ -151,6 +151,20 @@ class SpamDetector:
         email.close()
     self.Y_test.append(vector_label)
 
+    train_set_x_orig = np.array(self.X_train)
+    test_set_x_orig = np.array(self.X_test)
+    self.train_set_y = np.array(self.Y_train)
+    self.test_set_y = np.array(self.Y_test)
+    
+    train_set_x_flatten = train_set_x_orig.reshape(train_set_x_orig.shape[0], -1).T
+    test_set_x_flatten = test_set_x_orig.reshape(test_set_x_orig.shape[0], -1).T
+
+    train_set_x_flatten = (train_set_x_flatten - np.mean(train_set_x_flatten)) / np.std(train_set_x_flatten)
+    test_set_x_flatten = (test_set_x_flatten - np.mean(test_set_x_flatten)) / np.std(test_set_x_flatten)
+
+    self.train_set_x = train_set_x_flatten
+    self.test_set_x = test_set_x_flatten
+
 
   def sigmoid(self, z):
     s = 1 / (1 + np.exp(-z))
@@ -242,7 +256,7 @@ class SpamDetector:
     mediante un proceso de prueba y error con el fin de obtener la mejor precisión en los datos
     de prueba.
     """
-    train_set_x_orig = np.array(self.X_train)
+    ''' train_set_x_orig = np.array(self.X_train)
     test_set_x_orig = np.array(self.X_test)
     train_set_y = np.array(self.Y_train)
     test_set_y = np.array(self.Y_test)
@@ -254,6 +268,28 @@ class SpamDetector:
     test_set_x_flatten = (test_set_x_flatten - np.mean(test_set_x_flatten)) / np.std(test_set_x_flatten)
 
     train_set_x = train_set_x_flatten
-    test_set_x = test_set_x_flatten
+    test_set_x = test_set_x_flatten '''
 
-    return self.model(train_set_x, train_set_y, test_set_x, test_set_y, num_iterations = 5000, learning_rate = 0.005, print_cost = True)
+    d = self.model(self.train_set_x, self.train_set_y, self.test_set_x, self.test_set_y, num_iterations = 7000, learning_rate = 0.0004, print_cost = True)
+    print(self.get_datasets())
+    return d
+
+  def get_datasets(self):
+    """Retorna un diccionario con los datasets preprocesados con los datos y 
+    dimensiones que se usaron para el entrenamiento
+    
+    d = { "X_train": X_train,
+    "X_test": X_test,
+    "Y_train": Y_train,
+    "Y_test": Y_test
+    }
+    """
+    d = {
+      "X_train": self.train_set_x,
+      "X_test": self.test_set_x,
+      "Y_train": self.train_set_y,
+      "Y_test": self.test_set_y
+    }
+
+    return d
+
