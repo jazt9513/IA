@@ -271,7 +271,6 @@ class SpamDetector:
     test_set_x = test_set_x_flatten '''
 
     d = self.model(self.train_set_x, self.train_set_y, self.test_set_x, self.test_set_y, num_iterations = 7000, learning_rate = 0.0004, print_cost = True)
-    print(self.get_datasets())
     return d
 
   def get_datasets(self):
